@@ -1,0 +1,13 @@
+.blogPost {
+    font-size: 100%;
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    height: 5em;
+    width: 100%;
+  }
+  
+  .wordCount {
+    font-size: 100%;
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+  }
